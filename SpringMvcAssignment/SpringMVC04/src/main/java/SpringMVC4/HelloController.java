@@ -14,7 +14,7 @@ public class HelloController {
 			String pass=req.getParameter("pass");
 			String email=req.getParameter("email");
 			
-			if(name.equals("Suraj")&& email.equals("surajthopate@gmail.com") && pass.equals("suraj"))
+			if(name.equals("giri")&& email.equals("girirajawari@gmail.com") && pass.equals("suraj"))
 			{
 				String msg="Hello "+ name;
 				//add a message to the model
