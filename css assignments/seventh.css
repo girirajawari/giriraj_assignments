@@ -1,0 +1,15 @@
+p{
+    border-style: solid;
+    border-color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+body{
+    border: 1px solid black;
+}
+div{
+    border-style: dotted;
+    border-color: green;
+    margin: 5px;
+}
